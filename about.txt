@@ -1,1 +1,2 @@
-this is my about.txt file.
+This is git project.
+we are learning git conflict.
